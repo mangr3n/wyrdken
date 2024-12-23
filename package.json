@@ -3,15 +3,17 @@
   "version": "1.0.0",
   "description": "A Bayesian Network system for deriving knowledge from probability",
   "main": "dist/index.js",
+  "type": "module",
   "scripts": {
-    "test": "ts-node src/core/test/andGate.ts",
+    "test": "vitest",
     "build": "tsc"
   },
   "dependencies": {
-    "typescript": "^4.9.5"
+    "typescript": "^5.7.2"
   },
   "devDependencies": {
-    "ts-node": "^10.9.1",
-    "@types/node": "^16.11.7"
+    "ts-node": "^10.9.2",
+    "@types/node": "^22.10.2",
+    "vitest": "^2.1.8"
   }
 }
