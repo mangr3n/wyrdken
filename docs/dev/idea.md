@@ -1,3 +1,47 @@
+# Originating Concept
+
+A Bayesian network generator service that bridges generative AI capabilities with structured reasoning systems by:
+
+## Systemic Role
+Serves as the **hypothesis engine** within AI agent architectures that require:
+1. Executive function orchestration (Windsurf/O1/R1-style)
+2. Conjecture validation against real-world data streams
+3. Dynamic model evolution during task execution
+
+## Embodiment Imperative
+Implements *irreducible embodiment* through:
+1. **Action Coupling**:
+   - Network state changes ⇨ Executable actions
+   - Action outcomes ⇨ Network probability updates
+2. **Consequence Tracking**:
+   - Maintains audit trails linking:
+     ▸ Model revisions ⇨ Triggering events
+     ▸ Confidence changes ⇨ Outcome impacts
+3. **Accountability Circuits**:
+   - Requires validation thresholds for deployment
+   - Enforces model versioning with rollback capabilities
+   - Implements cost/risk scoring for network operations
+
+## Core Capabilities
+1. Accepts natural language descriptions of systems/processes
+2. Automatically constructs Bayesian networks with:
+   - Context-aware node relationships
+   - Dynamic conditional probability tables
+   - Embedded uncertainty quantification
+3. Generates:
+   - Executable network specifications
+   - Visualization scaffolding
+   - Documentation with reasoning chains
+
+## Validation Interface
+- Maintains bidirectional mapping between:
+  ▸ Network structures ⇨ Natural language narratives
+  ▸ Model probabilities ⇨ Confidence annotations
+- Enables:
+  ▸ Hypothesis stress-testing through scenario injection
+  ▸ Real-time validity scoring of agent conjectures
+  ▸ Automatic model revision cycles
+
 # Bayesian Network Generator Service
 
 ## Core Structure
